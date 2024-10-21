@@ -1,8 +1,9 @@
 # Matrices
 This repository describes matrix data structures and their different types.
 
-Special matrices are, in fact, square matrices (n × n). 
+## Notes on matrices
 
+Special matrices are, in fact, square matrices (n × n).<br>
 Special matrices often contain a larger number of zero elements.
 
 ## Matrices types
